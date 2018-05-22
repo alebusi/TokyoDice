@@ -1,6 +1,6 @@
 body {
     position: relative;
-    height: 100vh;
+    height: 85vh;
     font-family: 'Source Code Pro', monospace;
     font-weight: 900;
 }
@@ -17,14 +17,14 @@ body {
     position: absolute;
     bottom: 150px;
     //background-color: #E62100;
-    background-color: yellow;
+    background-color: red;
     padding: 1em 2em;
     font-weight: 700;
     font-size: 3em;
     border: none;
     text-align: center;
     vertical-align: middle;
-    color: white;
+    color: black;
 }
 
 [id*='dice-side-'] {
