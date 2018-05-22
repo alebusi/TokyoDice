@@ -4,6 +4,7 @@ window.addEventListener( 'DOMContentLoaded', function () {
     var fulmine = '\<i class\=\"fas fa\-bolt\"\>\<\/i\>'
     var cuore = '\<i class\=\"fas fa\-heart\"\>\<\/i\>'
     var zampa = '\<i class\=\"fas fa\-paw\"\>\<\/i\>'
+    var snd = new Audio("success.wav");
 
     function rollDice () {
 
