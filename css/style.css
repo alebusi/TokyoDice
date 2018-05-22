@@ -16,7 +16,8 @@ body {
 #pulsante {
     position: absolute;
     bottom: 150px;
-    background-color: #E62100;
+    //background-color: #E62100;
+    background-color: yellow;
     padding: 1em 2em;
     font-weight: 700;
     font-size: 3em;
