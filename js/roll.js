@@ -138,8 +138,8 @@ window.addEventListener( 'DOMContentLoaded', function () {
     }
 
     buttonRoolDice.addEventListener( 'click', rollDice, false );
-	var snd = new Audio("success.wav");
-	snd.play();
+	//var snd = new Audio("success.wav");
+	//snd.play();
 
 }, false);
 
