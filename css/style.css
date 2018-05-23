@@ -15,19 +15,17 @@ body {
 
 #pulsante {
     position: absolute;
-    width: 3em;
-    height: 3em;
-    border-radius: 1.5em;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
     bottom: 150px;
-    //background-color: #E62100;
     background-color: red;
-    padding: 1em 2em;
     font-weight: 700;
     font-size: 3em;
     border: none;
     text-align: center;
     vertical-align: middle;
-    color: black;
+    color: white;
 }
 
 [id*='dice-side-'] {
